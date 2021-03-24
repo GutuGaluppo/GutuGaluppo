@@ -1,27 +1,13 @@
-### Hi there and welcome to my Github page 👋
+<h2 align="center">Hi there and welcome to my Github page 👋</h2>
 
 <p align="center">
   Former sound designer, I discovered a huge pleasure in programming. Now I'm acting as a Frontend software developer to turn the UI mockups into an elegant final product up and running. I'm currently looking for new opportunities to share and improve my programming skills.
 </p>
 
-<p align="center">
-  You can find me on
-  <a href="https://codepen.io/gutugaluppo">
-    <img
-      alt="Codepen"
-      src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"
-    />
-  </a>
-    or on
-  <a href="https://www.linkedin.com/in/augusto-galuppo/">
-    <img
-      alt="Linkedin"
-      src="https://img.shields.io/badge/Linkedin-000?logo=linkedin&logoColor=white"
-    />
-  </a>
-</p>
+<br/>
 
-### Technologies & Tools
+
+<h2 align="center">Technologies & Tools</h2>
 
 <!-- https://simpleicons.org/?q=codepen -->
 
@@ -49,4 +35,23 @@
  <img src="https://github-readme-stats.vercel.app/api?username=GutuGaluppo&theme=radical&custom_title=Gutu+Galuppo's+GitHub+Stats&show_icons=true" />
 
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&theme=radical&layout=compact" />
+</p>
+
+</br>
+
+<p align="center">
+  You can find me on
+  <a href="https://codepen.io/gutugaluppo">
+    <img
+      alt="Codepen"
+      src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"
+    />
+  </a>
+    or on
+  <a href="https://www.linkedin.com/in/augusto-galuppo/">
+    <img
+      alt="Linkedin"
+      src="https://img.shields.io/badge/Linkedin-000?logo=linkedin&logoColor=white"
+    />
+  </a>
 </p>
