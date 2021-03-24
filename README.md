@@ -42,5 +42,5 @@
   src="https://github-readme-stats.vercel.app/api?username=GutuGaluppo&title_color=fc438c&icon_color=e9ca45&text_color=a8fdf5&bg_color=45,000000,292f34&custom_title=Gutu+Galuppo's+GitHub+Stats&show_icons=true"
 />
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&title_color=fc438c&icon_color=e9ca45&text_color=a8fdf5&bg_color=45,292f34,000000&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&title_color=fc438c&icon_color=e9ca45&text_color=a8fdf5&bg_color=-45,292f34,000000&layout=compact" />
 </p>
