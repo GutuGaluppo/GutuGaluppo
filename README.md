@@ -1,13 +1,16 @@
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif" alt="code" width="100%" align="center" />
+<br/>
 <h2 align="center">Hi there and welcome to my Github page 👋</h2>
 
 <p align="center">
-    Former sound designer, I discovered a huge pleasure in programming.  Now I'm acting as a Frontend software developer to turn the UI mockups into an elegant final product up and running.  I'm currently looking for new opportunities to share and improve my programming skills.
+    Former sound designer, I discovered a huge pleasure in programming.<br/>
+    Now I'm acting as a Frontend software developer thrilled to turn the UI mockups into an elegant final product up and running.<br/>
+    I'm always looking for new opportunities to share and improve my programming skills.
 </p>
 <br/>
 <p align="center">
   <img src="/PngItem_42822.png" alt="frontend-ilustration" width="400" />
 </p>
-
 
 <br/>
 
