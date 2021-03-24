@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutuGaluppo&theme=radical" />
 </div>
+
+
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
