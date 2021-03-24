@@ -1,11 +1,13 @@
-<p align="center">
-  <img src="/frontend-ilustration.jpeg" alt="frontend-ilustration"/>
-</p>
 <h2 align="center">Hi there and welcome to my Github page 👋</h2>
 
 <p align="center">
-  Former sound designer, I discovered a huge pleasure in programming. Now I'm acting as a Frontend software developer to turn the UI mockups into an elegant final product up and running. I'm currently looking for new opportunities to share and improve my programming skills.
+    Former sound designer, I discovered a huge pleasure in programming.  Now I'm acting as a Frontend software developer to turn the UI mockups into an elegant final product up and running.  I'm currently looking for new opportunities to share and improve my programming skills.
 </p>
+<br/>
+<p align="center">
+  <img src="/PngItem_42822.png" alt="frontend-ilustration" width="400" />
+</p>
+
 
 <br/>
 
