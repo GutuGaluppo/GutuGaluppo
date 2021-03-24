@@ -13,8 +13,6 @@
 
 <h2 align="center">Technologies & Tools</h2>
 
-<!-- https://simpleicons.org/?q=codepen -->
-
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat" />
@@ -63,3 +61,11 @@
     />
   </a>
 </p>
+
+
+
+
+<!-- Some refs -->
+
+<!-- https://simpleicons.org/?q=codepen -->
+<!-- https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/ -->
