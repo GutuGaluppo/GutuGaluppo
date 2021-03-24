@@ -67,5 +67,10 @@
 
 <!-- Some refs -->
 
-<!-- https://simpleicons.org/?q=codepen -->
-<!-- https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/ -->
+<!-- 
+https://simpleicons.org/?q=codepen
+https://aleksandarpopovic.com/Easiest-way-to-set-up-your-Github-profile-page/ 
+https://github.com/anuraghazra/github-readme-stats
+https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+https://github.com/abhisheknaiidu
+-->
