@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/source.gif" alt="code" width="100%" align="center" />
-<br/>
 <h2 align="center">Hi there and welcome to my Github page 👋</h2>
 
 <p align="center">
@@ -48,22 +46,23 @@
 <br/>
 <br/>
 
-<p align="center">
+<h3 align="center">
   You can find me on
-  <a href="https://codepen.io/gutugaluppo">
-    <img
-      alt="Codepen"
-      src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"
-    />
-  </a>
-    or on
-  <a href="https://www.linkedin.com/in/augusto-galuppo/">
+    <a href="https://www.linkedin.com/in/augusto-galuppo/">
     <img
       alt="Linkedin"
       src="https://img.shields.io/badge/Linkedin-000?logo=linkedin&logoColor=white"
     />
   </a>
-</p>
+    <br/>
+    or check one of my favorite hobbies
+  <a href="https://codepen.io/gutugaluppo">
+    <img
+      alt="Codepen"
+      src="https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white"
+    />
+  </a>  
+</h3>
 
 
 
