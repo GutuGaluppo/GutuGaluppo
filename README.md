@@ -1,5 +1,6 @@
-<img src="/frontend-ilustration.jpeg" alt="frontend-ilustration" align="center"/>
-
+<p align="center">
+  <img src="/frontend-ilustration.jpeg" alt="frontend-ilustration"/>
+</p>
 <h2 align="center">Hi there and welcome to my Github page 👋</h2>
 
 <p align="center">
