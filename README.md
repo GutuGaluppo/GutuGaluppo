@@ -6,7 +6,6 @@
 
 <br/>
 
-
 <h2 align="center">Technologies & Tools</h2>
 
 <!-- https://simpleicons.org/?q=codepen -->
@@ -25,6 +24,9 @@
   <img alt="Mac" src="https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=white&style=flat" />
 </p>
 
+<br/>
+<br/>
+
 <p align="center">
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutuGaluppo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    -->
@@ -37,7 +39,8 @@
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&theme=radical&layout=compact" />
 </p>
 
-</br>
+<br/>
+<br/>
 
 <p align="center">
   You can find me on
