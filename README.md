@@ -39,8 +39,8 @@
 <!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GutuGaluppo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
    -->
   <img
-  src="https://github-readme-stats.vercel.app/api?username=GutuGaluppo&title_color=fc438c&icon_color=e9ca45&text_color=a8fdf5&bg_color=45,000000,24292e&custom_title=Gutu+Galuppo's+GitHub+Stats&show_icons=true"
+  src="https://github-readme-stats.vercel.app/api?username=GutuGaluppo&title_color=fc438c&icon_color=e9ca45&text_color=a8fdf5&bg_color=45,000000,292f34&custom_title=Gutu+Galuppo's+GitHub+Stats&show_icons=true"
 />
 
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&theme=radical&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&title_color=fc438c&icon_color=e9ca45&text_color=a8fdf5&bg_color=45,292f34,000000&layout=compact" />
 </p>
