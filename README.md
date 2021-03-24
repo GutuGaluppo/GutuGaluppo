@@ -5,12 +5,6 @@
     Now I'm acting as a Frontend software developer thrilled to turn the UI mockups into an elegant final product up and running.<br/>
     I'm always looking for new opportunities to share and improve my programming skills.
 </p>
-<br/>
-<p align="center">
-  <img src="/PngItem_42822.png" alt="frontend-ilustration" width="400" />
-</p>
-
-<br/>
 
 <h2 align="center">Technologies & Tools</h2>
 
@@ -63,6 +57,10 @@
     />
   </a>  
 </h3>
+<br/>
+<p align="center">
+  <img src="/PngItem_42822.png" alt="frontend-ilustration" width="400" />
+</p>
 
 
 
