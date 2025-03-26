@@ -37,12 +37,8 @@
 <br/>
 
 <p align="center">
-
     <img alt="Wakatime Status" src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&theme=radical&layout=compact" />
-    
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=GutuGaluppo&theme=radical&custom_title=Gutu+Galuppo's+GitHub+Stats&show_icons=false" />
-    
-
 </p>
 
 <br/>
