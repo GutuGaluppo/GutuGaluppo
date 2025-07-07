@@ -45,7 +45,7 @@
 
 <h3 align="center">
   You can find me on
-    <a href="https://www.linkedin.com/in/augusto-galuppo-b687b824/">
+    <a href="https://www.linkedin.com/in/augusto-galuppo/">
     <img
       alt="Linkedin"
       src="https://img.shields.io/badge/Linkedin-000?logo=linkedin&logoColor=white"
