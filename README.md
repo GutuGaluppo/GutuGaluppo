@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi there and welcome to my GitHub</h1>
 
 <p align="center">
@@ -14,41 +17,63 @@ Now working as a front-end engineer, I love turning UI mockups into elegant, pro
 Always looking for opportunities to learn, collaborate, and improve my craft.
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=420&lines=Build;Scalable+Interfaces;Frontend+Engineer;React+%2B+Next.js" />
+</p> 
+
+
+## ⚡ CORE STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,mui,tailwindcss,styledcomponents,git,github,vscode" />
+</p>
+
+
+🧠 **STATE & DATA**  
+Redux (advanced) • Zustand • MobX • TanStack Query  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redux" />
+  <img src="https://cdn.simpleicons.org/reactquery?viewbox=auto&size=48" />
+  <img src="https://cdn.simpleicons.org/mobx?viewbox=auto&size=48" />
+  <img src="https://cdn.simpleicons.org/pmndrs?viewbox=auto&size=48" />
+</p>
+
+
+🤖 **TOOLCHAIN**  
+VSCode • Kiro • Claude Code • ChatGPT • Git • GitHub  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://cdn.simpleicons.org/claude?viewbox=auto&size=48" />
+  
+</p>
+
+
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/stackshare.svg" height="16" /> Tech & Tools
+## SYSTEM METRICS
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/javascript/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/typescript/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/react/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/html5/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/css/000000?viewbox=auto&size=40" />
-</p>
+🔥 CONTRIBUTION MATRIX
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/mui/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/styledcomponents/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/graphql/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/firebase/000000?viewbox=auto&size=40" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/git/000000?viewbox=auto&size=40" />
-  <img src="https://cdn.simpleicons.org/github/000000?viewbox=auto&size=40" />
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=GutuGaluppo&theme=github-compact)
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/redux.svg" height="16" /> State & Data
+🧠 CURRENT OBJECTIVES
 
-<p align="center">
-Redux • RTK Query • TanStack Query • Zustand • MobX
-</p>
+> optimize performance  
+> refine frontend architecture  
+> master TanStack ecosystem  
+
+🖤 DEV PHILOSOPHY  
+clean code > clever code  
+performance matters  
+ship > overthink  
+stay curious  
 
 ---
+
+<p align="center">⚡ powered by caffeine & curiosity ⚡</p>
+
 
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
@@ -76,3 +101,8 @@ always shipping
 ---
 
 <p align="center">powered by curiosity & caffeine</p>
+
+
+> SYSTEM STATUS: ONLINE  
+> LOCATION: CYBERSPACE  
+> MISSION: BUILD SCALABLE INTERFACES 
