@@ -1,8 +1,8 @@
 <h1 align="center">Hi there and welcome to my Github page 👋</h1>
 
 <p align="center">
-    A former sound designer, I discovered a huge pleasure in programming.<br/>
-    Now, I'm acting as a front-end software developer, thrilled to turn the UI mockups into an elegant final product that is up and running.<br/>
+    A former sound designer who discovered a huge pleasure in programming.<br/>
+    Now, working as a front-end software engineer, thrilled to turn the UI mockups into an elegant, up-and-running final product.<br/>
     I'm always looking for new opportunities to share and improve my programming skills.
 </p>
 
@@ -35,6 +35,12 @@
 </p>
 
 <br/>
+
+## ⏱️ Weekly coding stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <p align="center">
     <img alt="Wakatime Status" src="https://github-readme-stats.vercel.app/api/wakatime?username=GutuGaluppo&theme=radical&layout=compact" />
