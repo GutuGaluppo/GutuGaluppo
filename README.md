@@ -1,45 +1,79 @@
-# 👋 Hi, I'm Gutu!
+<h1 align="center">Hi 👋, I'm Gutu</h1>
+<h3 align="center">Frontend Developer specializing in modern React ecosystems</h3>
 
-💻 Passionate developer  
-🚀 Always learning new technologies  
-☕ Coffee + code = happiness
-
----
-
-## 🧠 About Me
-
-- 🔭 Exploring new technologies
-- 🌱 Constantly learning
-- ⚡ Focused on improving every day
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GutuGaluppo&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-![skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,docker)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GutuGaluppo&show_icons=true&theme=tokyonight&cache_seconds=60)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GutuGaluppo&layout=compact&theme=tokyonight)
+- 💻 Building modern web interfaces
+- ⚡ Focused on performance & DX
+- 🧠 Strong architecture & state management skills
+- ☕ Coffee + clean code
 
 ---
 
-## ⏱️ Weekly Coding Stats
+## 🛠 Core Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,git,github,vscode" />
+</p>
+
+### Frontend
+React • Next.js • TypeScript • RTK Query
+
+### Styling & UI
+Material UI • Tailwind CSS • styled-components
+
+---
+
+## 📚 State & Data Expertise
+
+Redux • RTK Query • Zustand • MobX • TanStack Query
+
+---
+
+## 🤖 Developer Workflow
+
+Git & GitHub  
+VSCode & Kiro  
+Claude Code & ChatGPT  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GutuGaluppo&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutuGaluppo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ⏱ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
-## 🐍 Contributions Snake
+## 🐍 Contribution Activity
 
-![Snake animation](https://github.com/GutuGaluppo/GutuGaluppo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/GutuGaluppo/GutuGaluppo/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
-⭐ From [GutuGaluppo](https://github.com/GutuGaluppo)
+## 🎯 Currently Learning
 
+- Advanced performance optimization
+- Scable frontend architecture
+- TanStack ecosystem
+
+---
+
+⭐️ From [GutuGaluppo](https://github.com/GutuGaluppo)
