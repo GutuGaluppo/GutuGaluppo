@@ -1,3 +1,52 @@
+# 👋 Fala aí, eu sou o Gutu!
+
+💻 Desenvolvedor apaixonado por tecnologia  
+🚀 Sempre aprendendo algo novo  
+☕ Café + código = felicidade
+
+---
+
+## 🧠 Sobre mim
+
+- 🔭 Explorando novas tecnologias
+- 🌱 Aprendendo constantemente
+- ⚡ Foco em evoluir como dev todos os dias
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,git,github,docker)
+
+---
+
+## 📊 GitHub Stats
+
+![Gutu GitHub stats](https://github-readme-stats.vercel.app/api?username=GutuGaluppo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GutuGaluppo&layout=compact&theme=tokyonight)
+
+---
+
+## ⏱️ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 🐍 Contributions
+
+![snake gif](https://github.com/GutuGaluppo/GutuGaluppo/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+⭐️ From [GutuGaluppo](https://github.com/GutuGaluppo)
+
+
+
+
+
 <h1 align="center">Hi there and welcome to my Github page 👋</h1>
 
 <p align="center">
