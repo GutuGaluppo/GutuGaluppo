@@ -11,15 +11,8 @@ Frontend Engineer • React Specialist • Crafting elegant & scalable interface
 
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/aboutdotme.svg" height="16" /> About Me
 
-<p align="center">
-A former sound designer who discovered a huge pleasure in programming.<br/>
-Now working as a front-end engineer, I love turning UI mockups into elegant, production-ready experiences.<br/>
-Always looking for opportunities to learn, collaborate, and improve my craft.
-</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=420&lines=Build;Scalable+Interfaces;Frontend+Engineer;React+%2B+Next.js" />
-</p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1800&color=0E002D&background=FFF9F900&center=true&vCenter=true&multiline=true&repeat=false&width=1100&height=150&lines=A+former+sound+designer+who+discovered+a+huge+pleasure+in+programming.;Now+working+as+a+front-end+engineer%2C+I+love+turning+UI+mockups+into+elegant%2C+production-ready+experiences.;Always+looking+for+opportunities+to+learn%2C+collaborate%2C+and+improve+my+craft.)](https://git.io/typing-svg) 
 
 
 ## ⚡ CORE STACK
