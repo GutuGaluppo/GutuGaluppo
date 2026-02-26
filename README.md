@@ -71,7 +71,7 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C750%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C750%20hrs%2043%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -132,7 +132,7 @@ Mac                      33 hrs 57 mins      ███████████�
 ```
 
 
- Last Updated on 25/02/2026 13:21:01 UTC
+ Last Updated on 26/02/2026 02:34:20 UTC
 <!--END_SECTION:waka-->
 
 ---
