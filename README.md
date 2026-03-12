@@ -71,69 +71,22 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C789%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C787%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 401.2 kB Used in GitHub's Storage 
+> 📦 401.3 kB Used in GitHub's Storage 
  > 
-> 🏆 294 Contributions in the Year 2026
+> 🏆 301 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 164 Public Repositories 
  > 
-> 🔑 36 Private Repositories 
+> 🔑 37 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                455 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-🌆 Daytime                1086 commits        ████████████░░░░░░░░░░░░░   48.35 % 
-🌃 Evening                639 commits         ███████░░░░░░░░░░░░░░░░░░   28.45 % 
-🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   485 commits         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Tuesday                  332 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Wednesday                311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Thursday                 725 commits         ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               17 hrs 36 mins      ███████████████████████░░   91.59 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
-Dart                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-CSS                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 13 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-my-landing-page          16 hrs 26 mins      █████████████████████░░░░   85.50 % 
-portfolio                59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-simon-sparks-2           48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-simon-sparks             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-safe_plate               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-
-💻 Operating System: 
-Mac                      19 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 11/03/2026 13:15:18 UTC
+ Last Updated on 12/03/2026 02:36:59 UTC
 <!--END_SECTION:waka-->
 
 ---
