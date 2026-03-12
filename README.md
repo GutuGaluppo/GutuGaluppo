@@ -71,11 +71,11 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C787%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C791%20hrs%2053%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 401.3 kB Used in GitHub's Storage 
+> 📦 401.4 kB Used in GitHub's Storage 
  > 
 > 🏆 301 Contributions in the Year 2026
  > 
@@ -85,8 +85,53 @@ stay curious
  > 
 > 🔑 37 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 12/03/2026 02:36:59 UTC
+```text
+🌞 Morning                458 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+🌆 Daytime                1092 commits        ████████████░░░░░░░░░░░░░   48.43 % 
+🌃 Evening                639 commits         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   485 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Tuesday                  332 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Wednesday                320 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Thursday                 725 commits         ████████░░░░░░░░░░░░░░░░░   32.15 % 
+Friday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Saturday                 104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               18 hrs 37 mins      ████████████████████████░   96.15 % 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+
+🔥 Editors: 
+VS Code                  19 hrs 21 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+my-landing-page          16 hrs 4 mins       █████████████████████░░░░   83.00 % 
+frontend-observability   3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+hello_2025_nextjs        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+
+💻 Operating System: 
+Mac                      19 hrs 21 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 12/03/2026 13:15:32 UTC
 <!--END_SECTION:waka-->
 
 ---
