@@ -71,22 +71,69 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C829%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C837%20hrs%2027%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 416.8 kB Used in GitHub's Storage 
+> 📦 417.2 kB Used in GitHub's Storage 
  > 
-> 🏆 383 Contributions in the Year 2026
+> 🏆 391 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 165 Public Repositories 
+> 📜 166 Public Repositories 
  > 
 > 🔑 38 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 27/03/2026 02:50:22 UTC
+```text
+🌞 Morning                466 commits         █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+🌆 Daytime                1141 commits        ████████████░░░░░░░░░░░░░   48.68 % 
+🌃 Evening                671 commits         ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   498 commits         █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+Tuesday                  357 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Wednesday                343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Thursday                 736 commits         ████████░░░░░░░░░░░░░░░░░   31.40 % 
+Friday                   246 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Saturday                 106 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               18 hrs 4 mins       █████████████████████░░░░   83.15 % 
+HTML                     1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Markdown                 1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 44 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+codequest                17 hrs 48 mins      ████████████████████░░░░░   81.93 % 
+bike-configurator        2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+big-techs                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+devtutor-ai              17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+cadence                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+
+💻 Operating System: 
+Mac                      21 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 27/03/2026 13:20:47 UTC
 <!--END_SECTION:waka-->
 
 ---
