@@ -71,11 +71,11 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C860%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C875%20hrs%2013%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 505.9 kB Used in GitHub's Storage 
+> 📦 505.4 kB Used in GitHub's Storage 
  > 
 > 🏆 488 Contributions in the Year 2026
  > 
@@ -131,7 +131,7 @@ Mac                      19 hrs 14 mins      ███████████�
 ```
 
 
- Last Updated on 14/04/2026 03:01:59 UTC
+ Last Updated on 14/04/2026 14:00:46 UTC
 <!--END_SECTION:waka-->
 
 ---
