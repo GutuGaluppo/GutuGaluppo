@@ -71,70 +71,22 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C964%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C972%20hrs%2025%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 541.3 kB Used in GitHub's Storage 
  > 
-> 🏆 637 Contributions in the Year 2026
+> 🏆 646 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 168 Public Repositories 
+> 📜 167 Public Repositories 
  > 
-> 🔑 41 Private Repositories 
+> 🔑 42 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                497 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-🌆 Daytime                1282 commits        ████████████░░░░░░░░░░░░░   48.12 % 
-🌃 Evening                749 commits         ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Tuesday                  400 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Wednesday                356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Thursday                 778 commits         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Friday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Saturday                 153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               6 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.79 % 
-Other                    4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-JSON                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Markdown                 1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Bash                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-
-🔥 Editors: 
-VS Code                  16 hrs 27 mins      █████████████████████████   99.51 % 
-Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-
-🐱‍💻 Projects: 
-MeetInBetween            10 hrs 51 mins      ████████████████░░░░░░░░░   65.64 % 
-codequest                1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-mathe-magie              1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-primer-poc               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-
-💻 Operating System: 
-Mac                      16 hrs 32 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 12/05/2026 03:44:49 UTC
+ Last Updated on 12/05/2026 14:40:59 UTC
 <!--END_SECTION:waka-->
 
 ---
