@@ -71,7 +71,7 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C972%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C971%20hrs%2045%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -85,8 +85,56 @@ stay curious
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 12/05/2026 14:40:59 UTC
+```text
+🌞 Morning                500 commits         █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+🌆 Daytime                1291 commits        ████████████░░░░░░░░░░░░░   48.24 % 
+🌃 Evening                749 commits         ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   549 commits         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+Tuesday                  409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Thursday                 778 commits         ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+Friday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Saturday                 153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.30 % 
+Other                    5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+HTML                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 29 mins      █████████████████████████   99.62 % 
+Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+
+🐱‍💻 Projects: 
+MeetInBetween            16 hrs 49 mins      ████████████████████░░░░░   78.00 % 
+codequest                1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+meetinbetween-web        1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+e-crwn-clothing          22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+
+💻 Operating System: 
+Mac                      21 hrs 34 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/05/2026 03:53:21 UTC
 <!--END_SECTION:waka-->
 
 ---
