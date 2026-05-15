@@ -71,8 +71,6 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C973%20hrs%2021%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 541.4 kB Used in GitHub's Storage 
@@ -86,7 +84,7 @@ stay curious
 > 🔑 42 Private Repositories 
  > 
 
- Last Updated on 14/05/2026 14:30:54 UTC
+ Last Updated on 15/05/2026 03:56:48 UTC
 <!--END_SECTION:waka-->
 
 ---
