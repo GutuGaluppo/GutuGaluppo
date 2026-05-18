@@ -71,11 +71,13 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C979%20hrs%2025%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 541.1 kB Used in GitHub's Storage 
  > 
-> 🏆 646 Contributions in the Year 2026
+> 🏆 648 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -83,8 +85,57 @@ stay curious
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 18/05/2026 04:10:24 UTC
+```text
+🌞 Morning                500 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+🌆 Daytime                1293 commits        ████████████░░░░░░░░░░░░░   48.28 % 
+🌃 Evening                749 commits         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   551 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Tuesday                  409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 778 commits         ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+Friday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Saturday                 153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               5 hrs 53 mins       ███████████████░░░░░░░░░░   61.34 % 
+Other                    1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+HTML                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Markdown                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 22 mins       ████████████████████████░   97.50 % 
+Kiro                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Unknown Editor           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+
+🐱‍💻 Projects: 
+MeetInBetween            6 hrs 22 mins       █████████████████░░░░░░░░   66.36 % 
+meetinbetween-web        1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+my-landing-page          41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+games-hint               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+recursive-component-tree 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+
+💻 Operating System: 
+Mac                      9 hrs 37 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/05/2026 15:47:31 UTC
 <!--END_SECTION:waka-->
 
 ---
