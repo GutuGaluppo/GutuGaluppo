@@ -71,6 +71,8 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C983%20hrs%201%20min-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 541.4 kB Used in GitHub's Storage 
@@ -83,8 +85,56 @@ stay curious
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/05/2026 03:45:24 UTC
+```text
+🌞 Morning                500 commits         █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+🌆 Daytime                1293 commits        ████████████░░░░░░░░░░░░░   48.28 % 
+🌃 Evening                749 commits         ███████░░░░░░░░░░░░░░░░░░   27.97 % 
+🌙 Night                  136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   551 commits         █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
+Tuesday                  409 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
+Wednesday                359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Thursday                 778 commits         ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+Friday                   314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+Saturday                 153 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Sunday                   114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               4 hrs 24 mins       █████████████████████░░░░   85.98 % 
+Bash                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 7 mins        █████████████████████████   99.90 % 
+Kiro                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+🐱‍💻 Projects: 
+regicide-tracker         3 hrs 22 mins       ████████████████░░░░░░░░░   65.68 % 
+mathe-magie              1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
+MeetInBetween            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+app                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+bike-configurator        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 23/05/2026 13:49:57 UTC
 <!--END_SECTION:waka-->
 
 ---
