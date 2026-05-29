@@ -71,8 +71,6 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C986%20hrs%2019%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 541.3 kB Used in GitHub's Storage 
@@ -85,53 +83,8 @@ stay curious
  > 
 > 🔑 43 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                510 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
-🌆 Daytime                1349 commits        ████████████░░░░░░░░░░░░░   48.46 % 
-🌃 Evening                776 commits         ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   557 commits         █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
-Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-Wednesday                375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Thursday                 794 commits         ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Friday                   332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Saturday                 156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Sunday                   129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               3 hrs 10 mins       ███████████████████████░░   90.50 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Git Config               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-VS Code                  3 hrs 30 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-regicide-tracker         2 hrs 54 mins       █████████████████████░░░░   82.62 % 
-codequest                36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-bike-configurator        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Operating System: 
-Mac                      3 hrs 30 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 16:16:13 UTC
+ Last Updated on 29/05/2026 04:07:48 UTC
 <!--END_SECTION:waka-->
 
 ---
