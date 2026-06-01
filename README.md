@@ -85,52 +85,8 @@ stay curious
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                515 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-🌆 Daytime                1366 commits        ████████████░░░░░░░░░░░░░   48.68 % 
-🌃 Evening                776 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   557 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Wednesday                375 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Thursday                 794 commits         ███████░░░░░░░░░░░░░░░░░░   28.30 % 
-Friday                   354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-Saturday                 156 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Sunday                   129 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               3 hrs 54 mins       ██████████████████░░░░░░░   71.74 % 
-Other                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Git Config               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 26 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-codequest                5 hrs 18 mins       ████████████████████████░   97.74 % 
-my-landing-page          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-
-💻 Operating System: 
-Mac                      5 hrs 26 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 01/06/2026 04:33:29 UTC
+ Last Updated on 01/06/2026 17:55:27 UTC
 <!--END_SECTION:waka-->
 
 ---
