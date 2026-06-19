@@ -75,7 +75,7 @@ stay curious
 
 **🐱 My GitHub Data** 
 
-> 📦 551.8 kB Used in GitHub's Storage 
+> 📦 551.9 kB Used in GitHub's Storage 
  > 
 > 🏆 839 Contributions in the Year 2026
  > 
@@ -85,8 +85,55 @@ stay curious
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 19/06/2026 04:55:32 UTC
+```text
+🌞 Morning                504 commits         █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌆 Daytime                1301 commits        ████████████░░░░░░░░░░░░░   48.08 % 
+🌃 Evening                756 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+🌙 Night                  145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   529 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+Tuesday                  427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Wednesday                377 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Thursday                 756 commits         ███████░░░░░░░░░░░░░░░░░░   27.94 % 
+Friday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+Saturday                 158 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Sunday                   132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               14 hrs 22 mins      ███████████████████░░░░░░   77.09 % 
+Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 38 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+regicide-tracker         17 hrs 12 mins      ███████████████████████░░   92.32 % 
+MeetInBetween            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+procureflow              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+proptrack                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+codequest                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+💻 Operating System: 
+Mac                      18 hrs 38 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 19/06/2026 15:37:32 UTC
 <!--END_SECTION:waka-->
 
 ---
