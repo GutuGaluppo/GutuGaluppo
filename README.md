@@ -85,55 +85,8 @@ stay curious
  > 
 > 🔑 42 Private Repositories 
  > 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                527 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-🌆 Daytime                1404 commits        ████████████░░░░░░░░░░░░░   49.04 % 
-🌃 Evening                783 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-🌙 Night                  149 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   558 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Wednesday                388 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Thursday                 796 commits         ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Friday                   374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Saturday                 165 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
-Sunday                   141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-TypeScript               14 hrs 51 mins      ███████████████████░░░░░░   75.90 % 
-Markdown                 2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-JSON                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Other                    19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-
-🔥 Editors: 
-VS Code                  19 hrs 35 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-regicide-tracker         18 hrs 9 mins       ███████████████████████░░   92.69 % 
-MeetInBetween            38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-procureflow              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-proptrack                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-codequest                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-💻 Operating System: 
-Mac                      19 hrs 35 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 18/06/2026 15:40:38 UTC
+ Last Updated on 19/06/2026 04:55:32 UTC
 <!--END_SECTION:waka-->
 
 ---
