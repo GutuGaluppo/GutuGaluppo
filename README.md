@@ -71,7 +71,7 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C036%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C036%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -112,20 +112,26 @@ Sunday                   144 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    1 min               █████████████████████████   100.00 % 
+Markdown                 4 mins              ███████████████░░░░░░░░░░   61.36 % 
+Other                    1 min               ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 
 🔥 Editors: 
-Claude Code              0 secs              █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████░░░░░░░░   69.49 % 
+Claude Code              1 min               ████████░░░░░░░░░░░░░░░░░   30.51 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+shared_calendar          2 mins              ██████████████░░░░░░░░░░░   55.32 % 
+regicide-tracker         2 mins              ███████████░░░░░░░░░░░░░░   44.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/07/2026 13:31:40 UTC
+ Last Updated on 12/07/2026 03:25:52 UTC
 <!--END_SECTION:waka-->
 
 ---
