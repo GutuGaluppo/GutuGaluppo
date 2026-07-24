@@ -71,6 +71,8 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C041%20hrs%2011%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 552.3 kB Used in GitHub's Storage 
@@ -86,21 +88,21 @@ stay curious
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-🌆 Daytime                1493 commits        ████████████░░░░░░░░░░░░░   48.92 % 
-🌃 Evening                826 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+🌞 Morning                551 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌆 Daytime                1497 commits        ████████████░░░░░░░░░░░░░   48.87 % 
+🌃 Evening                828 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Thursday                 830 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Friday                   395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+Monday                   585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
+Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
+Wednesday                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Thursday                 831 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
+Friday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 ```
 
 
@@ -123,7 +125,7 @@ Mac                      0 secs              ███████████�
 ```
 
 
- Last Updated on 24/07/2026 03:01:44 UTC
+ Last Updated on 24/07/2026 13:56:44 UTC
 <!--END_SECTION:waka-->
 
 ---
