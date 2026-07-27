@@ -88,21 +88,21 @@ stay curious
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                551 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-🌆 Daytime                1497 commits        ████████████░░░░░░░░░░░░░   48.87 % 
-🌃 Evening                828 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌞 Morning                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+🌆 Daytime                1493 commits        ████████████░░░░░░░░░░░░░   48.92 % 
+🌃 Evening                826 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Wednesday                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Thursday                 831 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-Friday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Monday                   585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Thursday                 830 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Friday                   395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 
 
@@ -112,20 +112,27 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   41.30 % 
+JavaScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+CSS                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 37 mins       ████████████████████░░░░░   78.43 % 
+VS Code                  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+tattoo_tips              3 hrs 12 mins       ████████████████████████░   95.71 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 13:43:18 UTC
+ Last Updated on 27/07/2026 03:37:17 UTC
 <!--END_SECTION:waka-->
 
 ---
