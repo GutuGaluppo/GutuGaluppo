@@ -71,9 +71,9 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C013%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C015%20hrs%2011%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2026%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -114,51 +114,53 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               1 hr 22 mins        ██████████░░░░░░░░░░░░░░░   41.30 % 
-JavaScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-JSON                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-CSS                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+TypeScript               2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
+JavaScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+CSS                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-Claude Code              2 hrs 37 mins       ████████████████████░░░░░   78.43 % 
-VS Code                  43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Claude Code              4 hrs 18 mins       ████████████████████░░░░░   78.68 % 
+VS Code                  1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
 
 🐱‍💻 Projects: 
-tattoo_tips              3 hrs 12 mins       ████████████████████████░   95.71 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+tattoo_tips              5 hrs 14 mins       ████████████████████████░   95.90 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+pictures                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+tattoo_style             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Mac                      3 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 14 mins (97.03%)
+⏱ AI Coding Time: 5 hrs 14 mins (95.71%)
 
-✍️ 10,227 lines written by AI, 25 lines written by hand (99.76% AI-written)
+✍️ 12,556 lines written by AI, 78 lines written by hand (99.38% AI-written)
 
-🔤 59,532,651 Input Tokens, 196,863 Output Tokens
+🔤 101,366,133 Input Tokens, 320,409 Output Tokens
 
-💵 $302.13 Estimated AI Cost This Week
+💵 $514.42 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 15 AI Prompts
+🧠 6 AI Sessions, 26 AI Prompts
 
-Opus                     9,711 lines         ████████████████████████░   94.49 % 
-GPT                      366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Github-Copilot           200 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Opus                     12,050 lines        ████████████████████████░   95.51 % 
+GPT                      366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Github-Copilot           200 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.76% of written lines came from AI
-📚 Verbose Prompter — average 2,196 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.24% of changed lines were hand-edited
+🤖 AI-Driven — 99.38% of written lines came from AI
+📄 Detailed Prompter — average 1,323 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.61% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 02:52:03 UTC
+ Last Updated on 28/07/2026 14:21:34 UTC
 <!--END_SECTION:waka-->
 
 ---
