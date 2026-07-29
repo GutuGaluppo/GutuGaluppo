@@ -90,21 +90,21 @@ stay curious
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                551 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-🌆 Daytime                1497 commits        ████████████░░░░░░░░░░░░░   48.87 % 
-🌃 Evening                828 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+🌞 Morning                546 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+🌆 Daytime                1493 commits        ████████████░░░░░░░░░░░░░   48.92 % 
+🌃 Evening                826 commits         ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+🌙 Night                  187 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Wednesday                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-Thursday                 831 commits         ███████░░░░░░░░░░░░░░░░░░   27.13 % 
-Friday                   401 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Monday                   585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
+Tuesday                  485 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Wednesday                406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Thursday                 830 commits         ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Friday                   395 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
 
 
@@ -114,53 +114,53 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
-JavaScript               51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-CSS                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Markdown                 44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+TypeScript               2 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
+CSS                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+JavaScript               53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Markdown                 48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 18 mins       ████████████████████░░░░░   78.68 % 
-VS Code                  1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Claude Code              4 hrs 58 mins       ████████████████████░░░░░   79.42 % 
+VS Code                  1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 
 🐱‍💻 Projects: 
-tattoo_tips              5 hrs 14 mins       ████████████████████████░   95.90 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-pictures                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-tattoo_style             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
-src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+tattoo_tips              6 hrs 2 mins        ████████████████████████░   96.42 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+pictures                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+tattoo_style             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+src                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Mac                      5 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 14 mins (95.71%)
+⏱ AI Coding Time: 5 hrs 55 mins (94.53%)
 
-✍️ 12,556 lines written by AI, 78 lines written by hand (99.38% AI-written)
+✍️ 14,454 lines written by AI, 80 lines written by hand (99.45% AI-written)
 
-🔤 101,366,133 Input Tokens, 320,409 Output Tokens
+🔤 152,225,002 Input Tokens, 420,343 Output Tokens
 
-💵 $514.42 Estimated AI Cost This Week
+💵 $771.21 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 26 AI Prompts
+🧠 7 AI Sessions, 44 AI Prompts
 
-Opus                     12,050 lines        ████████████████████████░   95.51 % 
-GPT                      366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-Github-Copilot           200 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Opus                     13,955 lines        ████████████████████████░   96.10 % 
+GPT                      366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Github-Copilot           200 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.38% of written lines came from AI
-📄 Detailed Prompter — average 1,323 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.61% of changed lines were hand-edited
+🤖 AI-Driven — 99.45% of written lines came from AI
+📄 Detailed Prompter — average 805 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.59% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 14:21:34 UTC
+ Last Updated on 29/07/2026 03:00:42 UTC
 <!--END_SECTION:waka-->
 
 ---
