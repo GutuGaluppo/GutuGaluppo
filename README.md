@@ -114,53 +114,54 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
-Markdown                 59 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-CSS                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+TypeScript               3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.20 % 
+Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+CSS                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+JavaScript               53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 58 mins       ███████████████████░░░░░░   75.55 % 
-VS Code                  1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+Claude Code              4 hrs 58 mins       ████████████████░░░░░░░░░   63.83 % 
+VS Code                  2 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.01 % 
+Kiro                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-tattoo_tips              6 hrs 2 mins        ███████████████████████░░   91.72 % 
-app                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
-love-letter              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-pictures                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+tattoo_tips              6 hrs 3 mins        ███████████████████░░░░░░   77.70 % 
+love-letter              52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+app                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+pictures                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 💻 Operating System: 
-Mac                      6 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 14 mins (94.63%)
+⏱ AI Coding Time: 7 hrs 1 min (90.09%)
 
-✍️ 14,674 lines written by AI, 182 lines written by hand (98.77% AI-written)
+✍️ 19,090 lines written by AI, 216 lines written by hand (98.88% AI-written)
 
-🔤 152,340,847 Input Tokens, 420,937 Output Tokens
+🔤 165,112,828 Input Tokens, 503,573 Output Tokens
 
-💵 $771.57 Estimated AI Cost This Week
+💵 $837.29 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 53 AI Prompts
+🧠 11 AI Sessions, 62 AI Prompts
 
-Opus                     13,955 lines        ████████████████████████░   94.67 % 
-Github-Copilot           420 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-GPT                      366 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Opus                     13,955 lines        ██████████████████░░░░░░░   72.83 % 
+GPT                      4,787 lines         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Github-Copilot           420 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.77% of written lines came from AI
-📄 Detailed Prompter — average 686 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.27% of changed lines were hand-edited
+🤖 AI-Driven — 98.88% of written lines came from AI
+📚 Verbose Prompter — average 2,657 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.16% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 14:16:34 UTC
+ Last Updated on 31/07/2026 03:27:21 UTC
 <!--END_SECTION:waka-->
 
 ---
