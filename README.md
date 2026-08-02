@@ -114,40 +114,40 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
-Markdown                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
-CSS                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-JSON                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+TypeScript               3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.76 % 
+Markdown                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+CSS                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 50 mins       ████████████████░░░░░░░░░   62.11 % 
-VS Code                  3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
+Claude Code              5 hrs 54 mins       ████████████████░░░░░░░░░   62.37 % 
+VS Code                  3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
 Kiro                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-tattoo_tips              6 hrs 3 mins        ████████████████░░░░░░░░░   64.53 % 
-love-letter              1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-app                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-Love_Letter_02           36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+tattoo_tips              6 hrs 3 mins        ████████████████░░░░░░░░░   64.09 % 
+love-letter              1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Love_Letter_02           40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+app                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 58 mins (84.89%)
+⏱ AI Coding Time: 8 hrs 2 mins (84.99%)
 
 ✍️ 23,101 lines written by AI, 2,554 lines written by hand (90.04% AI-written)
 
-🔤 179,066,716 Input Tokens, 579,707 Output Tokens
+🔤 182,302,209 Input Tokens, 582,840 Output Tokens
 
-💵 $908.97 Estimated AI Cost This Week
+💵 $925.22 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 67 AI Prompts
+🧠 15 AI Sessions, 68 AI Prompts
 
 Opus                     17,976 lines        ███████████████████░░░░░░   77.52 % 
 GPT                      4,792 lines         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
@@ -155,13 +155,13 @@ Github-Copilot           420 lines           ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 90.04% of written lines came from AI
-📚 Verbose Prompter — average 2,501 characters per prompt
+📚 Verbose Prompter — average 2,465 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 9.96% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 13:41:20 UTC
+ Last Updated on 02/08/2026 03:26:02 UTC
 <!--END_SECTION:waka-->
 
 ---
