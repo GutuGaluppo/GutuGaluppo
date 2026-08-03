@@ -114,54 +114,54 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   39.76 % 
-Markdown                 2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-CSS                      57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+TypeScript               2 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   39.56 % 
+Markdown                 1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+CSS                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Git Config               29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 54 mins       ████████████████░░░░░░░░░   62.37 % 
-VS Code                  3 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
-Kiro                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Claude Code              3 hrs 16 mins       █████████████░░░░░░░░░░░░   53.66 % 
+VS Code                  2 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
+Kiro                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-tattoo_tips              6 hrs 3 mins        ████████████████░░░░░░░░░   64.09 % 
-love-letter              1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Love_Letter_02           40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-app                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+tattoo_tips              2 hrs 51 mins       ████████████░░░░░░░░░░░░░   46.80 % 
+love-letter              1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.03 % 
+Love_Letter_02           40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+app                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+pictures                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Mac                      9 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 2 mins (84.99%)
+⏱ AI Coding Time: 4 hrs 48 mins (78.48%)
 
-✍️ 23,101 lines written by AI, 2,554 lines written by hand (90.04% AI-written)
+✍️ 12,874 lines written by AI, 2,529 lines written by hand (83.58% AI-written)
 
-🔤 182,302,209 Input Tokens, 582,840 Output Tokens
+🔤 122,769,558 Input Tokens, 385,977 Output Tokens
 
-💵 $925.22 Estimated AI Cost This Week
+💵 $619.69 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 68 AI Prompts
+🧠 12 AI Sessions, 53 AI Prompts
 
-Opus                     17,976 lines        ███████████████████░░░░░░   77.52 % 
-GPT                      4,792 lines         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Github-Copilot           420 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Opus                     7,777 lines         ████████████████░░░░░░░░░   62.60 % 
+GPT                      4,426 lines         █████████░░░░░░░░░░░░░░░░   35.63 % 
+Github-Copilot           220 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.04% of written lines came from AI
-📚 Verbose Prompter — average 2,465 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 9.96% of changed lines were hand-edited
+🤖 AI-Driven — 83.58% of written lines came from AI
+📚 Verbose Prompter — average 2,541 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 16.43% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 13:40:12 UTC
+ Last Updated on 03/08/2026 03:25:49 UTC
 <!--END_SECTION:waka-->
 
 ---
