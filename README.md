@@ -77,7 +77,7 @@ stay curious
 
 **🐱 My GitHub Data** 
 
-> 📦 551.9 kB Used in GitHub's Storage 
+> 📦 552.0 kB Used in GitHub's Storage 
  > 
 > 🏆 855 Contributions in the Year 2026
  > 
@@ -114,54 +114,53 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   41.77 % 
-TypeScript               1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   35.09 % 
-JSON                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Markdown                 1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   39.81 % 
+TypeScript               1 hr                █████████░░░░░░░░░░░░░░░░   34.67 % 
+JSON                     26 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Git Config               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+TSConfig                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 14 mins       █████████████████░░░░░░░░   69.56 % 
-Claude Code              56 mins             ███████░░░░░░░░░░░░░░░░░░   29.48 % 
-Kiro                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+VS Code                  1 hr 55 mins        █████████████████░░░░░░░░   66.19 % 
+Claude Code              56 mins             ████████░░░░░░░░░░░░░░░░░   32.75 % 
+Kiro                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-love-letter              1 hr 57 mins        ███████████████░░░░░░░░░░   61.02 % 
-Love_Letter_02           41 mins             █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-app                      30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-tattoo_tips              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+love-letter              1 hr 51 mins        ████████████████░░░░░░░░░   64.21 % 
+Love_Letter_02           41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+app                      17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+tattoo_tips              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+docs                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      3 hrs 13 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (66.52%)
+⏱ AI Coding Time: 1 hr 49 mins (63.2%)
 
-✍️ 11,250 lines written by AI, 2,474 lines written by hand (81.97% AI-written)
+✍️ 11,030 lines written by AI, 2,372 lines written by hand (82.3% AI-written)
 
-🔤 52,029,942 Input Tokens, 232,176 Output Tokens
+🔤 51,914,097 Input Tokens, 231,582 Output Tokens
 
-💵 $265.62 Estimated AI Cost This Week
+💵 $265.26 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 24 AI Prompts
+🧠 7 AI Sessions, 15 AI Prompts
 
-Opus                     6,666 lines         ███████████████░░░░░░░░░░   58.93 % 
-GPT                      4,426 lines         ██████████░░░░░░░░░░░░░░░   39.13 % 
-Github-Copilot           220 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Opus                     6,666 lines         ███████████████░░░░░░░░░░   60.10 % 
+GPT                      4,426 lines         ██████████░░░░░░░░░░░░░░░   39.90 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.97% of written lines came from AI
-📚 Verbose Prompter — average 5,507 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 17.98% of changed lines were hand-edited
+🤖 AI-Driven — 82.3% of written lines came from AI
+📚 Verbose Prompter — average 8,751 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 17.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/08/2026 14:23:38 UTC
+ Last Updated on 06/08/2026 02:55:29 UTC
 <!--END_SECTION:waka-->
 
 ---
