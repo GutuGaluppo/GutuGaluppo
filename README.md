@@ -77,7 +77,7 @@ stay curious
 
 **🐱 My GitHub Data** 
 
-> 📦 552.1 kB Used in GitHub's Storage 
+> 📦 552.2 kB Used in GitHub's Storage 
  > 
 > 🏆 855 Contributions in the Year 2026
  > 
@@ -114,52 +114,51 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-JSON                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-TypeScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-Markdown                 28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+TypeScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+JSON                     36 mins             ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
+Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Markdown                 27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        ██████████████████░░░░░░░   73.87 % 
-Claude Code              43 mins             ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+VS Code                  2 hrs 2 mins        ███████████████████░░░░░░   76.48 % 
+Claude Code              37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
 
 🐱‍💻 Projects: 
-Veronica_Guga            2 hrs 11 mins       ████████████████████░░░░░   79.28 % 
-regicide-tracker         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Writers Retreat Cadaqués 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Love_Letter_02           5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Veronica_Guga            2 hrs 11 mins       █████████████████████░░░░   82.08 % 
+regicide-tracker         14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Writers Retreat Cadaqués 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 Operating System: 
-Mac                      2 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 12 mins (79.87%)
+⏱ AI Coding Time: 2 hrs 7 mins (79.16%)
 
-✍️ 1,464 lines written by AI, 239 lines written by hand (85.97% AI-written)
+✍️ 1,446 lines written by AI, 239 lines written by hand (85.82% AI-written)
 
-🔤 21,650,881 Input Tokens, 130,516 Output Tokens
+🔤 16,765,485 Input Tokens, 125,273 Output Tokens
 
-💵 $157.76 Estimated AI Cost This Week
+💵 $133.21 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 26 AI Prompts
+🧠 6 AI Sessions, 25 AI Prompts
 
-GPT                      1,368 lines         ██████████████████████░░░   89.82 % 
-Opus                     155 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+GPT                      1,368 lines         ███████████████████████░░   90.90 % 
+Opus                     137 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.97% of written lines came from AI
-📚 Verbose Prompter — average 9,119 characters per prompt
+🤖 AI-Driven — 85.82% of written lines came from AI
+📚 Verbose Prompter — average 9,482 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 14.05% of changed lines were hand-edited
+🚀 High AI Trust — 14.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/08/2026 02:03:27 UTC
+ Last Updated on 09/08/2026 13:01:26 UTC
 <!--END_SECTION:waka-->
 
 ---
