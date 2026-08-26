@@ -71,21 +71,21 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C055%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C060%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-176%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-179%20hrs%2044%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 557.4 kB Used in GitHub's Storage 
+> 📦 557.5 kB Used in GitHub's Storage 
  > 
-> 🏆 931 Contributions in the Year 2026
+> 🏆 932 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
 > 📜 169 Public Repositories 
  > 
-> 🔑 43 Private Repositories 
+> 🔑 44 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -114,55 +114,57 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               6 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   35.54 % 
-JavaScript               6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-Other                    2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-JSON                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-Markdown                 1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+JavaScript               6 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.02 % 
+TypeScript               5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+JSON                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Markdown                 1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+Rust                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 52 mins       ████████████░░░░░░░░░░░░░   46.56 % 
-Claude Code              8 hrs 21 mins       ███████████░░░░░░░░░░░░░░   43.87 % 
-Zed                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-Codex Vscode             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+VS Code                  9 hrs 53 mins       ██████████████░░░░░░░░░░░   55.57 % 
+Claude Code              3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Copilot CLI              2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Zed                      56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Codex Vscode             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 🐱‍💻 Projects: 
-Docket                   9 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.40 % 
-Node                     4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-nodejs-crash-2024        2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-Unknown Project          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Projetos                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Docket                   6 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+Node                     4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+nodejs-crash-2024        2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+sprintforge              2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Unknown Project          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 
 💻 Operating System: 
-Mac                      19 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 19 mins (59.41%)
+⏱ AI Coding Time: 8 hrs 51 mins (49.76%)
 
-✍️ 4,686 lines written by AI, 1,633 lines written by hand (74.16% AI-written)
+✍️ 7,125 lines written by AI, 1,923 lines written by hand (78.75% AI-written)
 
-🔤 5,104,356 Input Tokens, 890,734 Output Tokens
+🔤 6,364,749 Input Tokens, 878,848 Output Tokens
 
-💵 $185.26 Estimated AI Cost This Week
+💵 $118.46 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 125 AI Prompts
+🧠 14 AI Sessions, 121 AI Prompts
 
-Opus                     2,593 lines         ██████████████░░░░░░░░░░░   54.53 % 
-GPT                      2,162 lines         ███████████░░░░░░░░░░░░░░   45.47 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      4,370 lines         ███████████████░░░░░░░░░░   58.94 % 
+Opus                     3,044 lines         ██████████░░░░░░░░░░░░░░░   41.06 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.16% of written lines came from AI
-📚 Verbose Prompter — average 7,210 characters per prompt
+🤖 AI-Driven — 78.75% of written lines came from AI
+📄 Detailed Prompter — average 1,211 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 30.27% of changed lines were hand-edited
+🚀 High AI Trust — 24.1% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/08/2026 01:40:10 UTC
+ Last Updated on 26/08/2026 13:03:54 UTC
 <!--END_SECTION:waka-->
 
 ---
