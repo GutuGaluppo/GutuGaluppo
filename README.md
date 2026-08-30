@@ -114,58 +114,58 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               8 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.45 % 
-Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-JSON                     1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+TypeScript               8 hrs 55 mins       ███████████░░░░░░░░░░░░░░   44.36 % 
+Other                    2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+JSON                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       ████████████░░░░░░░░░░░░░   47.56 % 
-Claude Code              4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-Zed                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Copilot CLI              2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Codex Vscode             1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+VS Code                  9 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.95 % 
+Claude Code              4 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+Zed                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Copilot CLI              2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Codex Vscode             1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 🐱‍💻 Projects: 
-Docket                   6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-Node                     4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-sprintforge              2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-my-app                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Express                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Docket                   6 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   34.69 % 
+Node                     4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+sprintforge              2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+my-app                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Express                  1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 
 💻 Operating System: 
-Mac                      19 hrs 17 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 22 mins (53.75%)
+⏱ AI Coding Time: 11 hrs 6 mins (55.27%)
 
-✍️ 3,741 lines written by AI, 1,658 lines written by hand (69.29% AI-written)
+✍️ 3,882 lines written by AI, 1,714 lines written by hand (69.37% AI-written)
 
-🔤 3,327,693 Input Tokens, 894,829 Output Tokens
+🔤 3,572,189 Input Tokens, 975,222 Output Tokens
 
-💵 $121.06 Estimated AI Cost This Week
+💵 $129.03 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 131 AI Prompts
+🧠 24 AI Sessions, 144 AI Prompts
 
-GPT                      3,899 lines         █████████████████████████   99.64 % 
-Opus                     14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+GPT                      4,049 lines         █████████████████████████   99.66 % 
+Opus                     14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.29% of written lines came from AI
-📚 Verbose Prompter — average 3,207 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 34.84% of changed lines were hand-edited
+🤖 AI-Driven — 69.37% of written lines came from AI
+📚 Verbose Prompter — average 3,821 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 34.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/08/2026 16:32:07 UTC
+ Last Updated on 30/08/2026 04:38:48 UTC
 <!--END_SECTION:waka-->
 
 ---
