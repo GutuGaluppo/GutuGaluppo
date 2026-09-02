@@ -71,13 +71,13 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C068%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C072%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-187%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2028%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 562.3 kB Used in GitHub's Storage 
+> 📦 562.4 kB Used in GitHub's Storage 
  > 
 > 🏆 934 Contributions in the Year 2026
  > 
@@ -87,8 +87,82 @@ stay curious
  > 
 > 🔑 45 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 02/09/2026 03:46:33 UTC
+```text
+🌞 Morning                550 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌆 Daytime                1709 commits        ████████████░░░░░░░░░░░░░   49.34 % 
+🌃 Evening                1018 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+🌙 Night                  187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   817 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
+Tuesday                  610 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Wednesday                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Thursday                 865 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Friday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+TypeScript               8 hrs 44 mins       ██████████████░░░░░░░░░░░   54.05 % 
+Other                    3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+CSS                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
+VS Code                  4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+Codex Vscode             3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+Zed                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+
+🐱‍💻 Projects: 
+Docket                   5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
+cosanova                 4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
+my-app                   2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Express                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+sprintforge              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+
+💻 Operating System: 
+Mac                      16 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 50 mins (73.21%)
+
+✍️ 7,706 lines written by AI, 618 lines written by hand (92.58% AI-written)
+
+🔤 4,758,124 Input Tokens, 997,272 Output Tokens
+
+💵 $168.68 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 128 AI Prompts
+
+GPT                      3,944 lines         █████████████░░░░░░░░░░░░   50.19 % 
+Opus                     3,914 lines         ████████████░░░░░░░░░░░░░   49.81 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 92.58% of written lines came from AI
+📚 Verbose Prompter — average 5,514 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 7.91% of changed lines were hand-edited
+```
+
+
+ Last Updated on 02/09/2026 16:23:11 UTC
 <!--END_SECTION:waka-->
 
 ---
