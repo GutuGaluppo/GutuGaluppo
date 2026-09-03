@@ -90,21 +90,21 @@ stay curious
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                550 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-🌆 Daytime                1709 commits        ████████████░░░░░░░░░░░░░   49.34 % 
-🌃 Evening                1018 commits        ███████░░░░░░░░░░░░░░░░░░   29.39 % 
-🌙 Night                  187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+🌞 Morning                555 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌆 Daytime                1713 commits        ████████████░░░░░░░░░░░░░   49.29 % 
+🌃 Evening                1020 commits        ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+🌙 Night                  187 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   817 commits         ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Tuesday                  610 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Wednesday                410 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Thursday                 865 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Friday                   411 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Monday                   817 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Tuesday                  610 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Wednesday                414 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Thursday                 866 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+Friday                   417 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Saturday                 178 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Sunday                   173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 ```
 
 
@@ -114,55 +114,55 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               8 hrs 44 mins       ██████████████░░░░░░░░░░░   54.05 % 
-Other                    3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
-Markdown                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-CSS                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+TypeScript               5 hrs 19 mins       ████████████░░░░░░░░░░░░░   48.25 % 
+HTML                     1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+CSS                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   37.79 % 
-VS Code                  4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-Codex Vscode             3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Zed                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Codex Vscode             4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.45 % 
+Claude Code              3 hrs 46 mins       █████████░░░░░░░░░░░░░░░░   34.25 % 
+VS Code                  2 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Zed                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🐱‍💻 Projects: 
-Docket                   5 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-cosanova                 4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-my-app                   2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-Express                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-sprintforge              26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+cosanova                 5 hrs 55 mins       █████████████░░░░░░░░░░░░   53.66 % 
+Docket                   2 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Escapada-Literaria       1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+my-app                   56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Retiro-Cadaqués          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Mac                      16 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      11 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 50 mins (73.21%)
+⏱ AI Coding Time: 9 hrs 7 mins (82.77%)
 
-✍️ 7,706 lines written by AI, 618 lines written by hand (92.58% AI-written)
+✍️ 8,116 lines written by AI, 95 lines written by hand (98.84% AI-written)
 
-🔤 4,758,124 Input Tokens, 997,272 Output Tokens
+🔤 6,417,041 Input Tokens, 651,964 Output Tokens
 
-💵 $168.68 Estimated AI Cost This Week
+💵 $114.91 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 128 AI Prompts
+🧠 22 AI Sessions, 126 AI Prompts
 
-GPT                      3,944 lines         █████████████░░░░░░░░░░░░   50.19 % 
-Opus                     3,914 lines         ████████████░░░░░░░░░░░░░   49.81 % 
+GPT                      4,361 lines         █████████████░░░░░░░░░░░░   52.79 % 
+Opus                     3,900 lines         ████████████░░░░░░░░░░░░░   47.21 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.58% of written lines came from AI
-📚 Verbose Prompter — average 5,514 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.91% of changed lines were hand-edited
+🤖 AI-Driven — 98.84% of written lines came from AI
+📚 Verbose Prompter — average 4,438 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 1.46% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/09/2026 16:23:11 UTC
+ Last Updated on 03/09/2026 03:47:25 UTC
 <!--END_SECTION:waka-->
 
 ---
