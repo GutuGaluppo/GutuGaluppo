@@ -114,56 +114,56 @@ Sunday                   173 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               9 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.53 % 
-Other                    3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Markdown                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-HTML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-CSS                      1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+TypeScript               9 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Other                    3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+JavaScript               2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+HTML                     1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 4 mins       █████████████░░░░░░░░░░░░   51.28 % 
-Codex Vscode             5 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-VS Code                  4 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Claude Code              14 hrs 28 mins      ███████████████░░░░░░░░░░   59.24 % 
+Codex Vscode             5 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+VS Code                  4 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 
 🐱‍💻 Projects: 
-cosanova                 5 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.14 % 
-Docket                   4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
-TrackZone                4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-tattoo_tips              2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Escapada-Literaria       1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+cosanova                 5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Docket                   4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+MAD                      4 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+TrackZone                4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+tattoo_tips              3 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 
 💻 Operating System: 
-Mac                      19 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs (91.68%)
+⏱ AI Coding Time: 22 hrs 27 mins (91.84%)
 
-✍️ 16,633 lines written by AI, 115 lines written by hand (99.31% AI-written)
+✍️ 23,734 lines written by AI, 113 lines written by hand (99.53% AI-written)
 
-🔤 9,097,350 Input Tokens, 1,507,776 Output Tokens
+🔤 11,419,294 Input Tokens, 1,884,299 Output Tokens
 
-💵 $214.34 Estimated AI Cost This Week
+💵 $280.82 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 256 AI Prompts
+🧠 46 AI Sessions, 277 AI Prompts
 
-Sonnet                   6,180 lines         █████████░░░░░░░░░░░░░░░░   35.98 % 
-Opus                     6,105 lines         █████████░░░░░░░░░░░░░░░░   35.54 % 
-GPT                      4,891 lines         ███████░░░░░░░░░░░░░░░░░░   28.48 % 
+Sonnet                   12,348 lines        █████████████░░░░░░░░░░░░   50.54 % 
+Opus                     6,105 lines         ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
+GPT                      5,980 lines         ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.31% of written lines came from AI
-📚 Verbose Prompter — average 3,314 characters per prompt
+🤖 AI-Driven — 99.53% of written lines came from AI
+📚 Verbose Prompter — average 3,162 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.76% of changed lines were hand-edited
+🚀 High AI Trust — 0.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 05/09/2026 14:56:33 UTC
+ Last Updated on 06/09/2026 03:48:28 UTC
 <!--END_SECTION:waka-->
 
 ---
