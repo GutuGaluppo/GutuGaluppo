@@ -114,55 +114,55 @@ Sunday                   175 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               11 hrs 25 mins      ██████████░░░░░░░░░░░░░░░   38.22 % 
-Markdown                 4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-CSS                      3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-JavaScript               3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-HTML                     1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+TypeScript               12 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.34 % 
+Markdown                 3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+CSS                      3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 49 mins      ████████████░░░░░░░░░░░░░   49.63 % 
-Codex Vscode             8 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-VS Code                  6 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Claude Code              15 hrs 55 mins      ██████████████░░░░░░░░░░░   54.54 % 
+Codex Vscode             7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+VS Code                  5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 
 🐱‍💻 Projects: 
-MAD                      7 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-Nodi                     5 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-cadence                  4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-cosanova                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-color-picker-spectra     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
+cosanova                 10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
+cadence                  4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+MAD                      3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+color-picker-spectra     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+my-landing-page          2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 
 💻 Operating System: 
-Mac                      29 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 39 mins (92.54%)
+⏱ AI Coding Time: 27 hrs (92.5%)
 
-✍️ 31,362 lines written by AI, 854 lines written by hand (97.35% AI-written)
+✍️ 21,740 lines written by AI, 115 lines written by hand (99.47% AI-written)
 
-🔤 13,918,544 Input Tokens, 2,124,797 Output Tokens
+🔤 10,073,625 Input Tokens, 1,820,985 Output Tokens
 
-💵 $291.39 Estimated AI Cost This Week
+💵 $231.95 Estimated AI Cost This Week
 
-🧠 55 AI Sessions, 378 AI Prompts
+🧠 53 AI Sessions, 357 AI Prompts
 
-Sonnet                   19,206 lines        ██████████████░░░░░░░░░░░   57.95 % 
-GPT                      13,746 lines        ██████████░░░░░░░░░░░░░░░   41.47 % 
-Github-Copilot           193 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Sonnet                   14,864 lines        ████████████████░░░░░░░░░   64.07 % 
+GPT                      8,142 lines         █████████░░░░░░░░░░░░░░░░   35.10 % 
+Github-Copilot           193 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.35% of written lines came from AI
-📚 Verbose Prompter — average 15,254 characters per prompt
+🤖 AI-Driven — 99.47% of written lines came from AI
+📚 Verbose Prompter — average 6,592 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 3.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.95% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 18:01:34 UTC
+ Last Updated on 15/09/2026 04:12:20 UTC
 <!--END_SECTION:waka-->
 
 ---
