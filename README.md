@@ -77,7 +77,7 @@ stay curious
 
 **🐱 My GitHub Data** 
 
-> 📦 875.1 kB Used in GitHub's Storage 
+> 📦 875.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1,156 Contributions in the Year 2026
  > 
@@ -114,55 +114,55 @@ Sunday                   175 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               12 hrs 39 mins      ███████████░░░░░░░░░░░░░░   43.34 % 
-Markdown                 3 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-CSS                      3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-HTML                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-JSON                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+TypeScript               10 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   39.86 % 
+Markdown                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+CSS                      3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Other                    2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+HTML                     1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 55 mins      ██████████████░░░░░░░░░░░   54.54 % 
-Codex Vscode             7 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-VS Code                  5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Claude Code              14 hrs 45 mins      ██████████████░░░░░░░░░░░   56.11 % 
+Codex Vscode             6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+VS Code                  5 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 
 🐱‍💻 Projects: 
-cosanova                 10 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
-cadence                  4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-MAD                      3 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-color-picker-spectra     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-my-landing-page          2 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+cosanova                 13 hrs 6 mins       ████████████░░░░░░░░░░░░░   49.83 % 
+cadence                  4 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+color-picker-spectra     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+my-landing-page          2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+tokentracker             1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 💻 Operating System: 
-Mac                      29 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs (92.5%)
+⏱ AI Coding Time: 24 hrs 7 mins (91.72%)
 
-✍️ 21,740 lines written by AI, 115 lines written by hand (99.47% AI-written)
+✍️ 14,101 lines written by AI, 168 lines written by hand (98.82% AI-written)
 
-🔤 10,073,625 Input Tokens, 1,820,985 Output Tokens
+🔤 8,328,640 Input Tokens, 1,338,985 Output Tokens
 
-💵 $231.95 Estimated AI Cost This Week
+💵 $159.60 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 357 AI Prompts
+🧠 48 AI Sessions, 350 AI Prompts
 
-Sonnet                   14,864 lines        ████████████████░░░░░░░░░   64.07 % 
-GPT                      8,142 lines         █████████░░░░░░░░░░░░░░░░   35.10 % 
-Github-Copilot           193 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Sonnet                   8,501 lines         ██████████████░░░░░░░░░░░   55.01 % 
+GPT                      6,760 lines         ███████████░░░░░░░░░░░░░░   43.74 % 
+Github-Copilot           193 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.47% of written lines came from AI
-📚 Verbose Prompter — average 6,592 characters per prompt
+🤖 AI-Driven — 98.82% of written lines came from AI
+📚 Verbose Prompter — average 4,390 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.95% of changed lines were hand-edited
+🚀 High AI Trust — 1.78% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 16:42:05 UTC
+ Last Updated on 16/09/2026 04:08:54 UTC
 <!--END_SECTION:waka-->
 
 ---
