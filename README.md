@@ -114,57 +114,57 @@ Sunday                   216 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               8 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Markdown                 8 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
-Other                    5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
-Swift                    2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
-CSS                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+TypeScript               8 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Markdown                 8 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+Other                    5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Swift                    2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+CSS                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 27 mins      ███████████████████░░░░░░   77.38 % 
-Codex Vscode             5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-VS Code                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Claude Code              27 hrs 17 mins      ███████████████████░░░░░░   77.27 % 
+Codex Vscode             5 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+VS Code                  2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Copilot CLI              11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🐱‍💻 Projects: 
-cosanova                 6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
-agente-comunitario-contat5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-colorcut-starter         4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-personal-rhythm-assistant4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-TokenBar                 2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+cosanova                 6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+agente-comunitario-contat5 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+colorcut-starter         4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+personal-rhythm-assistant4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+TokenBar                 2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
 
 💻 Operating System: 
-Mac                      35 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 50 mins (98.15%)
+⏱ AI Coding Time: 34 hrs 39 mins (98.14%)
 
 ✍️ 28,525 lines written by AI, 17 lines written by hand (99.94% AI-written)
 
-🔤 14,161,468 Input Tokens, 2,364,749 Output Tokens
+🔤 13,080,771 Input Tokens, 2,357,275 Output Tokens
 
-💵 $322.90 Estimated AI Cost This Week
+💵 $319.52 Estimated AI Cost This Week
 
-🧠 68 AI Sessions, 457 AI Prompts
+🧠 67 AI Sessions, 452 AI Prompts
 
 Opus                     12,760 lines        ███████████░░░░░░░░░░░░░░   42.59 % 
-Sonnet                   11,451 lines        ██████████░░░░░░░░░░░░░░░   38.22 % 
+Sonnet                   11,448 lines        ██████████░░░░░░░░░░░░░░░   38.21 % 
 GPT                      5,744 lines         █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
 Haiku                    5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 2,864 characters per prompt
+📚 Verbose Prompter — average 2,895 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/09/2026 16:09:08 UTC
+ Last Updated on 27/09/2026 04:35:47 UTC
 <!--END_SECTION:waka-->
 
 ---
