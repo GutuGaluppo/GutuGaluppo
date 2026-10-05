@@ -114,57 +114,56 @@ Sunday                   449 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               6 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   33.92 % 
-Rust                     3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Markdown                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Swift                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Other                    1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+TypeScript               4 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.42 % 
+Markdown                 2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Swift                    1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Rust                     1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 
 🔥 Editors: 
-Claude Code              17 hrs 7 mins       ██████████████████████░░░   86.55 % 
-VS Code                  1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
-Codex Vscode             1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Copilot CLI              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Claude Code              12 hrs 31 mins      ████████████████████░░░░░   79.27 % 
+VS Code                  1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Codex Vscode             1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Copilot CLI              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-Nodi                     5 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-OrganizaMyMac            3 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Relay                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-TokenBar                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-colorcut-starter         1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Nodi                     4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+OrganizaMyMac            3 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Relay                    2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+TokenBar                 1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+cadence                  1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 
 💻 Operating System: 
-Mac                      19 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 1 min (96.18%)
+⏱ AI Coding Time: 14 hrs 52 mins (94.19%)
 
-✍️ 21,939 lines written by AI, 22 lines written by hand (99.9% AI-written)
+✍️ 20,073 lines written by AI, 35 lines written by hand (99.83% AI-written)
 
-🔤 8,190,849 Input Tokens, 1,933,453 Output Tokens
+🔤 6,149,933 Input Tokens, 1,504,553 Output Tokens
 
-💵 $175.83 Estimated AI Cost This Week
+💵 $122.25 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 268 AI Prompts
+🧠 42 AI Sessions, 199 AI Prompts
 
-Opus                     21,045 lines        ███████████████████████░░   91.27 % 
-Haiku                    1,102 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-GPT                      912 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     18,102 lines        ██████████████████████░░░   89.12 % 
+GPT                      1,109 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Haiku                    1,102 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 1,851 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.14% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 2,196 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.23% of changed lines were hand-edited
 ```
 
 
- Last Updated on 04/10/2026 16:45:12 UTC
+ Last Updated on 05/10/2026 04:55:59 UTC
 <!--END_SECTION:waka-->
 
 ---
