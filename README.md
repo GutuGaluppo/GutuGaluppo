@@ -79,7 +79,7 @@ stay curious
 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
-> 🏆 1,713 Contributions in the Year 2026
+> 🏆 1,715 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -114,56 +114,56 @@ Sunday                   529 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 6 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Bash                     4 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-Other                    2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-HTML                     2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Bash                     3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Other                    2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+HTML                     2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Markdown                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+SQL                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 41 mins      █████████████░░░░░░░░░░░░   52.64 % 
-Codex Vscode             6 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.91 % 
-VS Code                  2 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+Claude Code              5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
+Codex Vscode             5 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
+VS Code                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 
 🐱‍💻 Projects: 
-Prato-da-Hora            11 hrs 7 mins       ██████████████░░░░░░░░░░░   54.76 % 
-AudioPlayground          4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-colorcut-starter         2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-TrackZone                1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-TokenBar                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Prato-da-Hora            9 hrs 21 mins       ██████████████████░░░░░░░   70.59 % 
+colorcut-starter         2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+TokenBar                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+2026                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Nodi                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      20 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 7 mins (89.3%)
+⏱ AI Coding Time: 12 hrs 4 mins (92.01%)
 
-✍️ 3,683 lines written by AI, 144 lines written by hand (96.24% AI-written)
+✍️ 2,634 lines written by AI, 139 lines written by hand (94.99% AI-written)
 
-🔤 6,253,892 Input Tokens, 1,681,552 Output Tokens
+🔤 3,182,466 Input Tokens, 646,528 Output Tokens
 
-💵 $143.98 Estimated AI Cost This Week
+💵 $92.85 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 229 AI Prompts
+🧠 17 AI Sessions, 165 AI Prompts
 
-Sonnet                   1,652 lines         ███████████░░░░░░░░░░░░░░   42.38 % 
-GPT                      1,504 lines         ██████████░░░░░░░░░░░░░░░   38.58 % 
-Haiku                    709 lines           █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Opus                     33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Sonnet                   1,330 lines         ███████████░░░░░░░░░░░░░░   45.83 % 
+GPT                      1,130 lines         ██████████░░░░░░░░░░░░░░░   38.94 % 
+Haiku                    409 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Opus                     33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.24% of written lines came from AI
-📄 Detailed Prompter — average 526 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.32% of changed lines were hand-edited
+🤖 AI-Driven — 94.99% of written lines came from AI
+📝 Concise Prompter — average 358 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 5.4% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/10/2026 16:57:40 UTC
+ Last Updated on 15/10/2026 04:00:35 UTC
 <!--END_SECTION:waka-->
 
 ---
