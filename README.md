@@ -114,56 +114,53 @@ Sunday                   529 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Bash                     3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Other                    2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-HTML                     2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown                 1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-SQL                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Bash                     3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
+HTML                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+SQL                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Swift                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.15 % 
-Codex Vscode             5 hrs 45 mins       ███████████░░░░░░░░░░░░░░   43.92 % 
-VS Code                  1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Claude Code              4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.05 % 
+Codex Vscode             4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.04 % 
+VS Code                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
 
 🐱‍💻 Projects: 
-Prato-da-Hora            9 hrs 21 mins       ██████████████████░░░░░░░   70.59 % 
-colorcut-starter         2 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-TokenBar                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-2026                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Nodi                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Prato-da-Hora            5 hrs 47 mins       ███████████████░░░░░░░░░░   60.00 % 
+colorcut-starter         2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+TokenBar                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+2026                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-Mac                      13 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 4 mins (92.01%)
+⏱ AI Coding Time: 8 hrs 57 mins (92.87%)
 
-✍️ 2,634 lines written by AI, 139 lines written by hand (94.99% AI-written)
+✍️ 370 lines written by AI, 17 lines written by hand (95.61% AI-written)
 
-🔤 3,182,466 Input Tokens, 646,528 Output Tokens
+🔤 1,810,491 Input Tokens, 301,425 Output Tokens
 
-💵 $92.85 Estimated AI Cost This Week
+💵 $17.33 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 165 AI Prompts
+🧠 10 AI Sessions, 133 AI Prompts
 
-Sonnet                   1,330 lines         ███████████░░░░░░░░░░░░░░   45.83 % 
-GPT                      1,130 lines         ██████████░░░░░░░░░░░░░░░   38.94 % 
-Haiku                    409 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Opus                     33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Haiku                    272 lines           ███████████████░░░░░░░░░░   58.12 % 
+GPT                      196 lines           ██████████░░░░░░░░░░░░░░░   41.88 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.99% of written lines came from AI
-📝 Concise Prompter — average 358 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 5.4% of changed lines were hand-edited
+🤖 AI-Driven — 95.61% of written lines came from AI
+📝 Concise Prompter — average 282 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 6.59% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/10/2026 16:42:16 UTC
+ Last Updated on 16/10/2026 03:55:37 UTC
 <!--END_SECTION:waka-->
 
 ---
