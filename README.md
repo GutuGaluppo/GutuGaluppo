@@ -90,21 +90,21 @@ stay curious
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                796 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-🌆 Daytime                2706 commits        █████████████░░░░░░░░░░░░   50.57 % 
-🌃 Evening                1598 commits        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+🌞 Morning                801 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+🌆 Daytime                2710 commits        █████████████░░░░░░░░░░░░   50.54 % 
+🌃 Evening                1600 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
+🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1196 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Tuesday                  912 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Wednesday                646 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Thursday                 1195 commits        ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
-Friday                   643 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Saturday                 230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-Sunday                   529 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+Monday                   1196 commits        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Tuesday                  912 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Wednesday                650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Thursday                 1196 commits        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Friday                   649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Saturday                 230 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Sunday                   529 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 
 
@@ -114,53 +114,51 @@ Sunday                   529 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Bash                     3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.97 % 
-HTML                     2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-Other                    1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-SQL                      1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Swift                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Bash                     3 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.31 % 
+HTML                     2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+TOML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 26 mins       ████████████░░░░░░░░░░░░░   46.05 % 
-Codex Vscode             4 hrs 9 mins        ███████████░░░░░░░░░░░░░░   43.04 % 
-VS Code                  1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Claude Code              3 hrs 31 mins       █████████████░░░░░░░░░░░░   52.64 % 
+Codex Vscode             2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
+VS Code                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
 
 🐱‍💻 Projects: 
-Prato-da-Hora            5 hrs 47 mins       ███████████████░░░░░░░░░░   60.00 % 
-colorcut-starter         2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
-TokenBar                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-2026                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Prato-da-Hora            3 hrs 47 mins       ██████████████░░░░░░░░░░░   56.52 % 
+colorcut-starter         2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
 
 💻 Operating System: 
-Mac                      9 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 57 mins (92.87%)
+⏱ AI Coding Time: 6 hrs 3 mins (90.27%)
 
-✍️ 370 lines written by AI, 17 lines written by hand (95.61% AI-written)
+✍️ 282 lines written by AI, 17 lines written by hand (94.31% AI-written)
 
-🔤 1,810,491 Input Tokens, 301,425 Output Tokens
+🔤 1,440,376 Input Tokens, 237,631 Output Tokens
 
-💵 $17.33 Estimated AI Cost This Week
+💵 $14.12 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 133 AI Prompts
+🧠 7 AI Sessions, 95 AI Prompts
 
-Haiku                    272 lines           ███████████████░░░░░░░░░░   58.12 % 
-GPT                      196 lines           ██████████░░░░░░░░░░░░░░░   41.88 % 
+GPT                      196 lines           █████████████████░░░░░░░░   68.53 % 
+Haiku                    90 lines            ████████░░░░░░░░░░░░░░░░░   31.47 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.61% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 6.59% of changed lines were hand-edited
+🤖 AI-Driven — 94.31% of written lines came from AI
+📝 Concise Prompter — average 337 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 10.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/10/2026 16:29:02 UTC
+ Last Updated on 17/10/2026 03:45:38 UTC
 <!--END_SECTION:waka-->
 
 ---
