@@ -114,51 +114,53 @@ Sunday                   529 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Bash                     3 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.31 % 
-HTML                     2 hrs               ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-Other                    42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-TOML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+HTML                     2 hrs               ████████░░░░░░░░░░░░░░░░░   33.29 % 
+Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 31 mins       █████████████░░░░░░░░░░░░   52.64 % 
-Codex Vscode             2 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-VS Code                  50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Claude Code              4 hrs 38 mins       ███████████████████░░░░░░   76.79 % 
+Codex Vscode             51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+VS Code                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 🐱‍💻 Projects: 
-Prato-da-Hora            3 hrs 47 mins       ██████████████░░░░░░░░░░░   56.52 % 
-colorcut-starter         2 hrs 55 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
+colorcut-starter         2 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.27 % 
+Prato-da-Hora            1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Nodi                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Cell-17                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 
 💻 Operating System: 
-Mac                      6 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 3 mins (90.27%)
+⏱ AI Coding Time: 5 hrs 40 mins (94.03%)
 
-✍️ 282 lines written by AI, 17 lines written by hand (94.31% AI-written)
+✍️ 842 lines written by AI, 4 lines written by hand (99.53% AI-written)
 
-🔤 1,440,376 Input Tokens, 237,631 Output Tokens
+🔤 1,310,514 Input Tokens, 334,762 Output Tokens
 
-💵 $14.12 Estimated AI Cost This Week
+💵 $13.95 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 95 AI Prompts
+🧠 7 AI Sessions, 88 AI Prompts
 
-GPT                      196 lines           █████████████████░░░░░░░░   68.53 % 
-Haiku                    90 lines            ████████░░░░░░░░░░░░░░░░░   31.47 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    374 lines           ███████████░░░░░░░░░░░░░░   42.99 % 
+Sonnet                   329 lines           █████████░░░░░░░░░░░░░░░░   37.82 % 
+GPT                      167 lines           █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.31% of written lines came from AI
-📝 Concise Prompter — average 337 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 10.06% of changed lines were hand-edited
+🤖 AI-Driven — 99.53% of written lines came from AI
+📝 Concise Prompter — average 427 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 1.4% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/10/2026 15:22:14 UTC
+ Last Updated on 18/10/2026 03:51:41 UTC
 <!--END_SECTION:waka-->
 
 ---
