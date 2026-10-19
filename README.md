@@ -90,21 +90,21 @@ stay curious
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                807 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-🌆 Daytime                2776 commits        █████████████░░░░░░░░░░░░   50.83 % 
-🌃 Evening                1627 commits        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-🌙 Night                  251 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+🌞 Morning                807 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+🌆 Daytime                2776 commits        █████████████░░░░░░░░░░░░   50.80 % 
+🌃 Evening                1628 commits        ███████░░░░░░░░░░░░░░░░░░   29.79 % 
+🌙 Night                  254 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1221 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-Tuesday                  916 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Wednesday                654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Thursday                 1201 commits        █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-Friday                   651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Monday                   1224 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Tuesday                  916 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Wednesday                654 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Thursday                 1201 commits        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+Friday                   651 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 Saturday                 236 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Sunday                   582 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Sunday                   583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
 ```
 
 
@@ -114,53 +114,53 @@ Sunday                   582 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-HTML                     2 hrs               ████████░░░░░░░░░░░░░░░░░   33.29 % 
-Other                    1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Bash                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-TypeScript               42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
-Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+TypeScript               1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.89 % 
+Markdown                 1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.35 % 
+Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 38 mins       ███████████████████░░░░░░   76.79 % 
-Codex Vscode             51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-VS Code                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Claude Code              4 hrs 13 mins       ████████████████████████░   94.18 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🐱‍💻 Projects: 
-colorcut-starter         2 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.27 % 
-Prato-da-Hora            1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Nodi                     56 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Cell-17                  44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Nodi                     2 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.22 % 
+cadence                  1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
+Cell-17                  44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+MacWell                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+augustogaluppo           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 💻 Operating System: 
-Mac                      6 hrs 2 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 40 mins (94.03%)
+⏱ AI Coding Time: 4 hrs 17 mins (96.08%)
 
-✍️ 842 lines written by AI, 4 lines written by hand (99.53% AI-written)
+✍️ 1,372 lines written by AI, 1 lines written by hand (99.93% AI-written)
 
-🔤 1,310,514 Input Tokens, 334,762 Output Tokens
+🔤 1,437,642 Input Tokens, 441,342 Output Tokens
 
-💵 $13.95 Estimated AI Cost This Week
+💵 $16.66 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 88 AI Prompts
+🧠 11 AI Sessions, 77 AI Prompts
 
-Haiku                    374 lines           ███████████░░░░░░░░░░░░░░   42.99 % 
-Sonnet                   329 lines           █████████░░░░░░░░░░░░░░░░   37.82 % 
-GPT                      167 lines           █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
+Haiku                    1,090 lines         ███████████████████░░░░░░   76.81 % 
+Sonnet                   329 lines           ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.53% of written lines came from AI
-📝 Concise Prompter — average 427 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 1.4% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📄 Detailed Prompter — average 589 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 15:42:37 UTC
+ Last Updated on 19/10/2026 04:02:48 UTC
 <!--END_SECTION:waka-->
 
 ---
