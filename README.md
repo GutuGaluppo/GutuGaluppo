@@ -114,53 +114,52 @@ Sunday                   583 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   38.89 % 
-Markdown                 1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   33.35 % 
-Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+Markdown                 4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.44 % 
+Other                    2 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
+TypeScript               1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 13 mins       ████████████████████████░   94.18 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Claude Code              8 hrs 39 mins       ████████████████████████░   97.16 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 
 🐱‍💻 Projects: 
-Nodi                     2 hrs 11 mins       ████████████░░░░░░░░░░░░░   49.22 % 
-cadence                  1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Cell-17                  44 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-MacWell                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-augustogaluppo           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+OrganizaMyMac            2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Nodi                     2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+cadence                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Cell-17                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+Generated                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 💻 Operating System: 
-Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (96.08%)
+⏱ AI Coding Time: 8 hrs 43 mins (98.03%)
 
-✍️ 1,372 lines written by AI, 1 lines written by hand (99.93% AI-written)
+✍️ 1,685 lines written by AI, 1 lines written by hand (99.94% AI-written)
 
-🔤 1,437,642 Input Tokens, 441,342 Output Tokens
+🔤 2,867,657 Input Tokens, 806,142 Output Tokens
 
-💵 $16.66 Estimated AI Cost This Week
+💵 $34.07 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 77 AI Prompts
+🧠 25 AI Sessions, 157 AI Prompts
 
-Haiku                    1,090 lines         ███████████████████░░░░░░   76.81 % 
-Sonnet                   329 lines           ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    1,068 lines         ████████████████░░░░░░░░░   62.46 % 
+Sonnet                   642 lines           █████████░░░░░░░░░░░░░░░░   37.54 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📄 Detailed Prompter — average 589 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🤖 AI-Driven — 99.94% of written lines came from AI
+📝 Concise Prompter — average 342 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/10/2026 18:39:40 UTC
+ Last Updated on 20/10/2026 04:14:18 UTC
 <!--END_SECTION:waka-->
 
 ---
