@@ -114,54 +114,54 @@ Sunday                   583 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
-Other                    1 hr 52 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Markdown                 1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-C++                      1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+TypeScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   31.39 % 
+Other                    1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+C++                      1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+CSS                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 40 mins       ███████████████████████░░   90.30 % 
-Codex Vscode             47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Claude Code              4 hrs 53 mins       █████████████████████░░░░   85.83 % 
+Codex Vscode             47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-Cell-17                  3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   39.73 % 
-cadence                  2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
-Nodi                     1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-tattoo_tips              48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-TokenBar                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Cell-17                  3 hrs 22 mins       ███████████████░░░░░░░░░░   59.22 % 
+cadence                  1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+tattoo_tips              48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+TokenBar                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Nodi                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      8 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 29 mins (99.82%)
+⏱ AI Coding Time: 5 hrs 41 mins (99.73%)
 
-✍️ 1,618 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 924 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,691,970 Input Tokens, 984,035 Output Tokens
+🔤 2,624,905 Input Tokens, 694,585 Output Tokens
 
-💵 $43.69 Estimated AI Cost This Week
+💵 $35.45 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 141 AI Prompts
+🧠 11 AI Sessions, 90 AI Prompts
 
-Sonnet                   891 lines           █████████████░░░░░░░░░░░░   53.29 % 
-Haiku                    776 lines           ████████████░░░░░░░░░░░░░   46.41 % 
-GPT                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Sonnet                   891 lines           ██████████████████████░░░   88.83 % 
+Haiku                    107 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+GPT                      5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 519 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 480 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/10/2026 15:54:13 UTC
+ Last Updated on 26/10/2026 04:05:28 UTC
 <!--END_SECTION:waka-->
 
 ---
