@@ -71,9 +71,9 @@ stay curious
 ## <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/wakatime.svg" height="16" /> Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C228%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C228%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-354%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-354%20hrs%2046%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -114,56 +114,56 @@ Sunday                   583 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Markdown                 2 hrs 36 mins       ███████████░░░░░░░░░░░░░░   43.26 % 
-Other                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-TypeScript               49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Git Config               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Markdown                 2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   40.70 % 
+TypeScript               1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Other                    55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Git Config               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 30 mins       ███████████████████░░░░░░   74.85 % 
-VS Code                  1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Codex Vscode             24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Claude Code              4 hrs 52 mins       ███████████████████░░░░░░   76.33 % 
+VS Code                  1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Codex Vscode             24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-Docket                   3 hrs 42 mins       ███████████████░░░░░░░░░░   61.60 % 
-kanzlei-schaefer-projeto 1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
-bike-configurator        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-scratch-2026-10-26-6e306718 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-0a5efe05-1679-4ef5-8d06-23 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Docket                   4 hrs 5 mins        ████████████████░░░░░░░░░   63.87 % 
+kanzlei-schaefer-projeto 1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+bike-configurator        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+scratch-2026-10-26-6e306718 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+0a5efe05-1679-4ef5-8d06-23 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 💻 Operating System: 
-Mac                      6 hrs               █████████████████████████   100.00 % 
+Mac                      6 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (94.15%)
+⏱ AI Coding Time: 6 hrs 2 mins (94.49%)
 
-✍️ 4,231 lines written by AI, 11 lines written by hand (99.74% AI-written)
+✍️ 4,240 lines written by AI, 11 lines written by hand (99.74% AI-written)
 
-🔤 2,580,895 Input Tokens, 941,755 Output Tokens
+🔤 2,662,076 Input Tokens, 950,740 Output Tokens
 
-💵 $37.46 Estimated AI Cost This Week
+💵 $38.17 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 84 AI Prompts
+🧠 15 AI Sessions, 90 AI Prompts
 
-Haiku                    2,158 lines         █████████████░░░░░░░░░░░░   50.85 % 
-Sonnet                   1,057 lines         ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-GPT                      621 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-Opus                     408 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Haiku                    2,158 lines         █████████████░░░░░░░░░░░░   50.74 % 
+Sonnet                   1,066 lines         ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+GPT                      621 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Opus                     408 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.74% of written lines came from AI
-📄 Detailed Prompter — average 765 characters per prompt
+📄 Detailed Prompter — average 912 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.47% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/11/2026 05:16:08 UTC
+ Last Updated on 01/11/2026 17:52:37 UTC
 <!--END_SECTION:waka-->
 
 ---
